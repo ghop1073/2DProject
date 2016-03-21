@@ -1,5 +1,6 @@
 package twoDController;
 
-public class ArrayController {
+public class ArrayController
+{
 
 }

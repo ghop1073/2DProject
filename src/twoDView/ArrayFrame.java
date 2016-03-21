@@ -1,5 +1,6 @@
 package twoDView;
 
-public class ArrayFrame {
+public class ArrayFrame
+{
 
 }

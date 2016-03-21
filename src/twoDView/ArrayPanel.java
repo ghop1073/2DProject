@@ -1,5 +1,6 @@
 package twoDView;
 
-public class ArrayPanel {
+public class ArrayPanel
+{
 
 }
